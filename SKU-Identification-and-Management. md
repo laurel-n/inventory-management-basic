@@ -1,0 +1,14 @@
+# Feature Name: Item Identification (SKU Management)
+
+## Short Description
+A system to create and manage unique SKU codes for every product to easily identify items in the store.
+
+## Purpose
+To ensure each item has a unique identity, prevent duplicate entries, and make searching and tracking items faster and more accurate.
+
+## Main Functions / Activities
+- Auto-generate unique SKU code for new items
+- Validate SKU to avoid duplicates
+- Search item using SKU code
+- Link SKU to item name, category, and location
+- Print barcode/QR code using SKU for labeling
